@@ -1,0 +1,22 @@
+.card{
+    background-color:  #94644A; 
+    width: 216px;
+    padding: 8px;
+    margin: 16px;
+    border-radius: 12px;
+    font-family: "Roboto", sans-serif;
+}
+
+.text{
+    font-size: 14px;
+}
+
+.title{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.img{
+    border-radius: 12px;
+    width: 100%;
+}
